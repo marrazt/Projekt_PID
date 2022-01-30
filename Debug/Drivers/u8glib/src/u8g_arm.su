@@ -1,0 +1,4 @@
+u8g_arm.c:4:6:u8g_Delay	16	static
+u8g_arm.c:10:6:u8g_MicroDelay	16	static
+u8g_arm.c:16:6:u8g_10MicroDelay	16	static
+u8g_arm.c:23:9:u8g_com_hw_i2c_fn	1056	static
